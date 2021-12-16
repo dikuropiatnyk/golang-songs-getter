@@ -1,0 +1,8 @@
+.idea/
+
+# Environment file with secrets
+.env
+
+# Helpers for local development
+test-routines.go
+tracks.json
